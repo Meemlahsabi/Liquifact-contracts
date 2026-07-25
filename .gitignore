@@ -29,3 +29,6 @@ node_modules/
 pr.mdescrow/proptest-regressions/
 
 escrow/proptest-regressions/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
